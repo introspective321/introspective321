@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hey, I'm Anushk 👋
 
+**Currently:** Building, breaking, fixing, and repeating.  
+**While:** Quietly crafting _precise_ things that (hopefully) work.  
+**Prefers:** Learning over rushing.
 <!--
 **introspective321/introspective321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
